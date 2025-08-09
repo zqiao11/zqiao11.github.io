@@ -1,6 +1,19 @@
 ---
 ---
 
+
+// ======= 自定义宽度（一定要写在 @import 之前）=======
+// 页面整体最大宽度（默认 ~1200px）
+$max-width: 1400px;
+
+// 正文内容宽度（默认 ~800px，导致你觉得窄）
+$content-width: 1040px;
+
+// （可选）左右侧栏宽度，开着 author_profile 时会用到
+$right-sidebar-width: 280px;
+$left-sidebar-width: 280px;
+
+
 /*
  * This file controls what is imported from /_sass
  *
