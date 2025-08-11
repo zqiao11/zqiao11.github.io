@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,8 @@ redirect_from:
 }
 </style>
 
-
+About me
+======
 I am Zhongzheng, a fourth-year Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore. Apart from NTU, I am also affiliated with [I<sup>2</sup>R, A*STAR](https://www.a-star.edu.sg/i2r) (Singapore’s national research agency) and [Descartes CNRS@CREATE](https://www.cnrsatcreate.cnrs.fr/descartes/) (a French-Singaporean collaborative research programme). I am fortunate to be supervised by Prof. [Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/) and Dr. [Savitha Ramasamy](https://scholar.google.com/citations?user=SLQ1lxgAAAAJ&hl=en), and was previously co-supervised by Prof. [P.N. Suganthan](https://scholar.google.com.sg/citations?user=yZNzBU0AAAAJ&hl=en). 
 
 My research interests lie broadly in **time series analysis**, encompassing tasks such as classification and forecasting. I also explore continual learning, online learning, and multimodal learning in time series contexts. Currently, I am investigating the adaptation of time series foundation models for real-world applications.
