@@ -40,7 +40,7 @@ Selected publications
 ======
 
 
-- <span class="pub-title">**[Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087)** (*Arxiv*, 2025)</span>  
+- <span class="pub-title">**[Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087)** (*NeurIPS*, 2025)</span>  
   <span class="pub-authors"><strong>Zhongzheng Qiao</strong>, Chenghao Liu, Yiming Zhang, Ming Jin, Quang Pham, Qingsong Wen, P.N. Suganthan, Xudong Jiang, Savitha Ramasamy</span>
 - <span class="pub-title">**[CrisisTS: Coupling Social Media Textual Data and Meteorological Time Series for Urgency Classification](https://aclanthology.org/2025.acl-long.783/)** (*ACL*, 2025)</span>  
   <span class="pub-authors">Romain Meunier, Farah Benamara, Véronique Moriceau, <strong>Zhongzheng Qiao</strong>, Savitha Ramasamy</span>
