@@ -30,15 +30,17 @@ Apart from research, I like reading 📚, music 🎵 (playing violin 🎻 someti
 
 Recent News
 ======
-* Oct 2025 – Joining [TikTok Singapore](https://www.tiktok.com/about) as a PhD Algorithm Intern, focusing on Multimodal Large Language Models (MLLMs) in LIVE applications.
-* Sep 2025 – Our paper, *'Multi-Scale Finetuning for Encoder-based Time Series Foundation Models'*, is accepted by NeurIPS 2025🥳! See you in San Diego this December.
-* July 2025 – Relocated to the lab of CNRS@CREATE, NUS. Hope to meet you at UTown 🙌
+* [Oct 2025]: Joining [TikTok Singapore](https://www.tiktok.com/about) as a PhD Algorithm Intern, focusing on Multimodal Large Language Models (MLLMs) in LIVE applications.
+* [Sep 2025]: Our [paper](https://arxiv.org/abs/2506.14087) is accepted by NeurIPS 2025🥳 See you in San Diego this December!
+* [July 2025]: Relocated to the lab of CNRS@CREATE. Hope to meet you at UTown 🙌
+* [June 2025]: Attended our programme’s yearly workshop, [SINFRA 2025](https://ipal.cnrs.fr/sinfra-2025-25-27-june/)
+, in Cergy, Paris 🥐
 
 
 Experience
 ======
-* Oct 2025 – Present: **Algorithm Engineer Intern**, Global Live Team, TikTok, Singapore
-* 2020 Dec - May 2021: **Research Intern**, I<sup>2</sup>R, A*STAR, Singapore
+* Oct 2025 – Present: Algorithm Engineer Intern, Global Live Team, TikTok, Singapore
+* Dec 2020 – May 2021: Research Intern, I<sup>2</sup>R, A*STAR, Singapore
 
 
 
@@ -67,6 +69,6 @@ Selected publications
 
 Awards
 ======
-* NTU Premium Research Scholarship (2022-2026)
-* Outstanding Graduates in Northeastern University (2020)
-* Northeastern University Outstanding Student Scholarship (2019 & 2020)
+* NTU Premium Research Scholarship
+* Outstanding Graduates in Northeastern University
+* Northeastern University Outstanding Student Scholarship
