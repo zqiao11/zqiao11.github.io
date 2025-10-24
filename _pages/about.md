@@ -30,17 +30,16 @@ Apart from research, I like reading 📚, music 🎵 (playing violin 🎻 someti
 
 Recent News
 ======
-* [Oct 2025]: Joining [TikTok Singapore](https://www.tiktok.com/about) as a PhD Algorithm Intern, focusing on Multimodal Large Language Models (MLLMs) in LIVE applications.
-* [Sep 2025]: Our [paper](https://arxiv.org/abs/2506.14087) is accepted by NeurIPS 2025🥳 See you in San Diego this December!
-* [July 2025]: Relocated to the lab of CNRS@CREATE. Hope to meet you at UTown 🙌
-* [June 2025]: Attended our programme’s yearly workshop, [SINFRA 2025](https://ipal.cnrs.fr/sinfra-2025-25-27-june/)
-, in Cergy, Paris 🥐
+* \[Oct 2025\]: Joining [TikTok Singapore](https://www.tiktok.com/about) as a PhD Algorithm Intern, working on MLLMs in LIVE applications.
+* \[Sep 2025\]: Our [paper](https://arxiv.org/abs/2506.14087) is accepted by NeurIPS 2025🥳 See you in San Diego!
+* \[July 2025\]: Relocated to the lab of CNRS@CREATE. Hope to meet you at UTown 🙌
+* \[June 2025\]: Attended our programme’s yearly workshop, [SINFRA 2025](https://ipal.cnrs.fr/sinfra-2025-25-27-june/), in Cergy, Paris 🥐
 
 
 Experience
 ======
-* Oct 2025 – Present: Algorithm Engineer Intern, Global Live Team, TikTok, Singapore
-* Dec 2020 – May 2021: Research Intern, I<sup>2</sup>R, A*STAR, Singapore
+* Oct 2025 – Present: **Algorithm Engineer Intern**, Global Live Team, TikTok, Singapore
+* Dec 2020 – May 2021: **Research Intern**, I<sup>2</sup>R, A*STAR, Singapore
 
 
 
