@@ -28,6 +28,20 @@ My research interests lie broadly in **time series analysis**, encompassing task
 Apart from research, I like reading 📚, music 🎵 (playing violin 🎻 sometimes) and doing sports 💪🏀. I’m also a fan of MMA 🥊 and video games 🎮 (though I’ve stopped playing them recently!). But honestly, the thing I enjoy and do the most is hanging out with my friends 🥰.
 
 
+Recent News
+======
+* Oct 2025 – Joining [TikTok Singapore](https://www.tiktok.com/about) as a PhD Algorithm Intern, focusing on Multimodal Large Language Models (MLLMs) in LIVE applications.
+* Sep 2025 – Our paper, *'Multi-Scale Finetuning for Encoder-based Time Series Foundation Models'*, is accepted by NeurIPS 2025🥳! See you in San Diego this December.
+* July 2025 – Relocated to the lab of CNRS@CREATE, NUS. Hope to meet you at UTown 🙌
+
+
+Experience
+======
+* Oct 2025 – Present: **Algorithm Engineer Intern**, Global Live Team, TikTok, Singapore
+* 2020 Dec - May 2021: **Research Intern**, I<sup>2</sup>R, A*STAR, Singapore
+
+
+
 Education
 ======
 * 2022-2025: Ph.D. in Interdisciplinary Graduate Programme, NTU.
@@ -49,3 +63,10 @@ Selected publications
 - <span class="pub-title">**[Class-incremental learning on multivariate time series via shape-aligned temporal distillation](https://ieeexplore.ieee.org/abstract/document/10094960/)** (*ICASSP*, 2023)</span>  
   <span class="pub-authors"><strong>Zhongzheng Qiao</strong>, Minghui Hu, Xudong Jiang, Ponnuthurai Nagaratnam Suganthan, Ramasamy Savitha</span>
 
+
+
+Awards
+======
+* NTU Premium Research Scholarship (2022-2026)
+* Outstanding Graduates in Northeastern University (2020)
+* Northeastern University Outstanding Student Scholarship (2019 & 2020)
