@@ -30,7 +30,7 @@ Apart from research, I like reading 📚, music 🎵 (playing violin 🎻 someti
 
 Recent News
 ======
-* \[Oct 2025\]: Joining [TikTok Singapore](https://www.tiktok.com/about) as a PhD Algorithm Intern, working on MLLMs in LIVE applications.
+* \[Oct 2025\]: Joining [TikTok Singapore](https://www.tiktok.com/about) as a PhD Intern, working on MLLMs in LIVE applications.
 * \[Sep 2025\]: Our [paper](https://arxiv.org/abs/2506.14087) is accepted by NeurIPS 2025🥳 See you in San Diego!
 * \[July 2025\]: Relocated to the lab of CNRS@CREATE. Hope to meet you at UTown 🙌
 * \[June 2025\]: Attended our programme’s yearly workshop, [SINFRA 2025](https://ipal.cnrs.fr/sinfra-2025-25-27-june/), in Cergy, Paris 🥐
