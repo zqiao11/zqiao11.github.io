@@ -38,7 +38,7 @@ Recent News
 
 Experience
 ======
-* Oct 2025 – Present: **Algorithm Engineer Intern**, Global Live Team, TikTok, Singapore
+* Oct 2025 – Jan 2026: **Algorithm Engineer Intern**, Global Live Team, TikTok, Singapore
 * Dec 2020 – May 2021: **Research Intern**, I<sup>2</sup>R, A*STAR, Singapore
 
 
@@ -53,7 +53,8 @@ Education
 
 Selected publications
 ======
-
+- <span class="pub-title">**[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147)** (*arxiv*, 2026)</span>  
+  <span class="pub-authors"><strong>Zhongzheng Qiao, Sheng Pan, Anni Wang, Viktoriya Zhukova, Yong Liu, Xudong Jiang, Qingsong Wen, Mingsheng Long, Ming Jin, Chenghao Liu</span>
 
 - <span class="pub-title">**[Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087)** (*NeurIPS*, 2025)</span>  
   <span class="pub-authors"><strong>Zhongzheng Qiao</strong>, Chenghao Liu, Yiming Zhang, Ming Jin, Quang Pham, Qingsong Wen, P.N. Suganthan, Xudong Jiang, Savitha Ramasamy</span>
